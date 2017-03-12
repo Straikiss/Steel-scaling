@@ -1,3 +1,6 @@
+# my build
+my_build = 18
+
 # damage at 15 lvl
 d_punch = 72 
 d_bull_rush = 210 
